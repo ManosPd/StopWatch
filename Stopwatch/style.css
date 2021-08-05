@@ -1,0 +1,28 @@
+*{
+    background-color: orange;
+}
+h1, p{
+    text-align: center;
+    color: white;
+}
+
+#watch{
+    font-weight: bold;
+    font-size: 40px;
+}
+
+button{
+    text-align: center;
+    color: white;
+    padding: 4px;
+    margin: 20px;
+    border-radius: 3px;
+    width: 100px;
+    height: 50px;
+    border: 1.5px solid white;
+}
+div.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
